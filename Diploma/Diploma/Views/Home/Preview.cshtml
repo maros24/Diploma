@@ -1,0 +1,18 @@
+﻿@model Diploma.Models.PreviewImageVm
+@{
+    ViewBag.Title = "Preview";
+}
+@if (!string.IsNullOrEmpty(Model.ImageName))
+{
+    <div class="jumbotron" id="enc">
+       
+                <div class="encrypt-header">
+                    <h3>Зашифроване зображення</h3>
+                </div>
+                <img src="@Url.Content("~/Files/" + Model.ImageName)" class="ri" id="image"  /><br />
+    <a href="@Url.Action("Download", new { path = "~/Files/" + Model.ImageName })" class="action-btn">Зaвантажити файл</a><br />
+       
+   </div>
+ }
+
+

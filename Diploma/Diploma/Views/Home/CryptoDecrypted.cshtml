@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewBag.Title = "CryptoDecrypted";
+}
+
+<div class="jumbotron" id="enc">
+    <div class="encrypt-header">
+        <h3>Оберіть файли для завантаження</h3>
+    </div>
+    <form id="myForm" action="/Home/CryptoDecrypted" enctype="multipart/form-data" method="post">
+        <div class="form-horizontal">
+            <script type="text/javascript">
+                    var arr1 = [".txt"];
+                 
+            </script>
+
+            <span class="tom" id="err">  </span><br />
+                    <div class="file-upload" id="file-upload" title="Завантажте текстовий файл з розширенням '.txt' ">
+                        <script>
+                                 $('#file-upload').tooltip();
+                        </script>
+                        <label>
+                            <input type="file" name="upload" id="upload" onchange="ValidateSingleInput(this, arr1); getFileName ('upload','file-name1');" required />
+                            <span>Оберіть текст</span>
+                        </label>
+                    </div>
+                    <div class="file-name1" id="file-name1"></div>
+            <br />
+
+            <script type="text/javascript">
+                    function ValidateSingleInput(oInput, _validFileExtensions) {
+                        if (oInput.type == "file") {
+                            var sFileName = oInput.value;
+                            if (sFileName.length > 0) {
+                                var blnValid = false;
+                                for (var j = 0; j < _validFileExtensions.length; j++) {
+                                    var sCurExtension = _validFileExtensions[j];
+                                    if (sFileName.substr(sFileName.length - sCurExtension.length, sCurExtension.length).toLowerCase() == sCurExtension.toLowerCase()) {
+                                        blnValid = true;
+                                        break;
+                                    }
+                                }
+                                if (!blnValid) {
+                                    err.classList.add("text-danger");
+                                    err.innerHTML = "Невірне розширення файлу!";
+                                    oInput.value = "";
+                                    return false;
+
+                                }
+                                err.classList.remove("text-danger");
+                                err.innerHTML = "";
+                            }
+
+                        }
+                        return true;
+                    }
+            </script>
+
+            <script type="text/javascript">
+
+                    function getFileName(upload, filename) {
+
+                        var file = document.getElementById(upload).value;
+
+                        file = file.replace(/\\/g, '/').split('/').pop();
+
+                        document.getElementById(filename).innerHTML = 'Назва файлу: ' + file;
+                    }
+            </script>
+
+
+            <div class="password">
+                <div class="input-wrapper">
+                    <input type="password" name="key" id="key" placeholder="Введіть ключ розшифрування" required />
+                    <label for="key" id="lol">key</label>
+                </div>
+            </div>
+            <br />
+            <label id="drop">Оберіть алгоритм розшифрування</label>
+            <select class="turnintodropdown" name="algoritm" id="algoritm" required>
+                <option value="AES">AES</option>
+                <option value="AES">AES</option>
+                <option value="Rijndael">Rijndael</option>
+                <option value="TripleDES">TripleDES</option>
+            </select>
+
+            <br />
+            <p>
+                <input type="submit" value="Розшифрувати" style="margin:auto" class="button13" />
+            </p>
+        </div>
+
+    </form>
+</div>

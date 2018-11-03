@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "PreviewDecryptOnly";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Location))
+{
+
+    <div class="jumbotron" id="enc">
+
+        <div class="encrypt-header">
+            <h3>Текст із зображення розшифровано</h3>
+        </div>
+        <a href="@Url.Action("DownloadDecryptOnly", new { path = ViewBag.Location })" class="action-btn">Зaвантажити файл</a><br />
+    </div>
+}

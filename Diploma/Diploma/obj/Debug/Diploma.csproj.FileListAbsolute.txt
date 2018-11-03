@@ -1,0 +1,323 @@
+D:\Diploma\Diplom\Diploma\Diploma\bin\ApplicationInsights.config
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\csc.exe
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\System.Collections.Immutable.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\System.Reflection.Metadata.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\vbc.exe
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe
+D:\Diploma\Diplom\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe.config
+D:\Diploma\Diplom\Diploma\Diploma\bin\Diploma.dll.config
+D:\Diploma\Diplom\Diploma\Diploma\bin\Diploma.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Diploma.pdb
+D:\Diploma\Diplom\Diploma\Diploma\bin\Antlr3.Runtime.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Web.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.ApplicationInsights.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.Web.Infrastructure.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Newtonsoft.Json.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Helpers.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Mvc.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Optimization.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Razor.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Deployment.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Razor.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\WebGrease.dll
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Web.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.ApplicationInsights.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Helpers.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Mvc.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Optimization.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Razor.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Deployment.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Razor.xml
+D:\Diploma\Diplom\Diploma\Diploma\bin\Antlr3.Runtime.pdb
+D:\Diploma\Diplom\Diploma\Diploma\bin\Newtonsoft.Json.xml
+D:\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.csprojResolveAssemblyReference.cache
+D:\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.dll
+D:\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.pdb
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\ApplicationInsights.config
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\csc.exe
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\vbc.exe
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Diploma.dll.config
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Diploma.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Diploma.pdb
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Antlr3.Runtime.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Web.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.ApplicationInsights.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Newtonsoft.Json.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Helpers.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Mvc.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Optimization.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Razor.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Razor.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\WebGrease.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Web.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.ApplicationInsights.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Helpers.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Mvc.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Optimization.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Razor.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Razor.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Antlr3.Runtime.pdb
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\bin\Newtonsoft.Json.xml
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.dll
+C:\Users\moroz\Desktop\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.pdb
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\ApplicationInsights.config
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\csc.exe
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\vbc.exe
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Diploma.dll.config
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Diploma.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Diploma.pdb
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Antlr3.Runtime.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Web.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.ApplicationInsights.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Newtonsoft.Json.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Helpers.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Mvc.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Optimization.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Razor.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Razor.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\WebGrease.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.Web.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.ApplicationInsights.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Helpers.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Mvc.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Optimization.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.Razor.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\System.Web.WebPages.Razor.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Antlr3.Runtime.pdb
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\bin\Newtonsoft.Json.xml
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.dll
+C:\Users\moroz\Documents\Diploma\Diploma\Diplom\Diploma\Diploma\obj\Debug\Diploma.pdb
+G:\Диплом\Diploma\Diploma\bin\ApplicationInsights.config
+G:\Диплом\Diploma\Diploma\bin\roslyn\csc.exe
+G:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Диплом\Diploma\Diploma\bin\roslyn\System.Collections.Immutable.dll
+G:\Диплом\Diploma\Diploma\bin\roslyn\System.Reflection.Metadata.dll
+G:\Диплом\Diploma\Diploma\bin\roslyn\vbc.exe
+G:\Диплом\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe
+G:\Диплом\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe.config
+G:\Диплом\Diploma\Diploma\bin\Diploma.dll.config
+G:\Диплом\Diploma\Diploma\bin\Diploma.dll
+G:\Диплом\Diploma\Diploma\bin\Diploma.pdb
+G:\Диплом\Diploma\Diploma\bin\Antlr3.Runtime.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.Web.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.ApplicationInsights.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.Web.Infrastructure.dll
+G:\Диплом\Diploma\Diploma\bin\Newtonsoft.Json.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.Helpers.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.Mvc.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.Optimization.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.Razor.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Deployment.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.dll
+G:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Razor.dll
+G:\Диплом\Diploma\Diploma\bin\WebGrease.dll
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.xml
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.Web.xml
+G:\Диплом\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.xml
+G:\Диплом\Diploma\Diploma\bin\Microsoft.ApplicationInsights.xml
+G:\Диплом\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.Helpers.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.Mvc.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.Optimization.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.Razor.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Deployment.xml
+G:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Razor.xml
+G:\Диплом\Diploma\Diploma\bin\Antlr3.Runtime.pdb
+G:\Диплом\Diploma\Diploma\bin\Newtonsoft.Json.xml
+G:\Диплом\Diploma\Diploma\obj\Debug\Diploma.csprojResolveAssemblyReference.cache
+G:\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+G:\Диплом\Diploma\Diploma\obj\Debug\Diploma.dll
+G:\Диплом\Diploma\Diploma\obj\Debug\Diploma.pdb
+E:\Диплом\Diploma\Diploma\bin\ApplicationInsights.config
+E:\Диплом\Diploma\Diploma\bin\roslyn\csc.exe
+E:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Диплом\Diploma\Diploma\bin\roslyn\System.Collections.Immutable.dll
+E:\Диплом\Diploma\Diploma\bin\roslyn\System.Reflection.Metadata.dll
+E:\Диплом\Diploma\Diploma\bin\roslyn\vbc.exe
+E:\Диплом\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe
+E:\Диплом\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe.config
+E:\Диплом\Diploma\Diploma\bin\Diploma.dll.config
+E:\Диплом\Diploma\Diploma\bin\Diploma.dll
+E:\Диплом\Diploma\Diploma\bin\Diploma.pdb
+E:\Диплом\Diploma\Diploma\bin\Antlr3.Runtime.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.Web.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.ApplicationInsights.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.Web.Infrastructure.dll
+E:\Диплом\Diploma\Diploma\bin\Newtonsoft.Json.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.Helpers.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.Mvc.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.Optimization.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.Razor.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Deployment.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.dll
+E:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Razor.dll
+E:\Диплом\Diploma\Diploma\bin\WebGrease.dll
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.xml
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.Web.xml
+E:\Диплом\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.xml
+E:\Диплом\Diploma\Diploma\bin\Microsoft.ApplicationInsights.xml
+E:\Диплом\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.Helpers.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.Mvc.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.Optimization.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.Razor.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Deployment.xml
+E:\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Razor.xml
+E:\Диплом\Diploma\Diploma\bin\Antlr3.Runtime.pdb
+E:\Диплом\Diploma\Diploma\bin\Newtonsoft.Json.xml
+E:\Диплом\Diploma\Diploma\obj\Debug\Diploma.csprojResolveAssemblyReference.cache
+E:\Диплом\Diploma\Diploma\obj\Debug\Diploma.dll
+E:\Диплом\Diploma\Diploma\obj\Debug\Diploma.pdb
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\ApplicationInsights.config
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\csc.exe
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\System.Collections.Immutable.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\System.Reflection.Metadata.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\vbc.exe
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\roslyn\VBCSCompiler.exe.config
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Diploma.dll.config
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Diploma.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Diploma.pdb
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Antlr3.Runtime.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.Web.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.ApplicationInsights.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.Web.Infrastructure.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Newtonsoft.Json.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Helpers.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Mvc.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Optimization.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Razor.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Deployment.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.WebPages.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Razor.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\WebGrease.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.DependencyCollector.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.Web.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.AI.WindowsServer.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.ApplicationInsights.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Helpers.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Mvc.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Optimization.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.Razor.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.WebPages.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Deployment.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\System.Web.WebPages.Razor.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Antlr3.Runtime.pdb
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\bin\Newtonsoft.Json.xml
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\obj\Debug\Diploma.csprojAssemblyReference.cache
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.CoreCompileInputs.cache
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\obj\Debug\Diploma.csproj.CopyComplete
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\obj\Debug\Diploma.dll
+E:\Компьютер\Диск Д\Диплом\Diploma\Diploma\obj\Debug\Diploma.pdb

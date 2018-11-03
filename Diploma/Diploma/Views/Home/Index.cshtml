@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<br/>
+<div class="col-md-12 " id="first"></div>
+<div class="jumbotron">
+        
+    <div class="color">
+        <h1>Стеганографічний додаток</h1>
+    </div><br/>
+            <div class="row">
+                    <div class="col-md-4 col-md-push-7">
+                        <h3>Шифрування у зображення без криптозахисту</h3>
+                        <div class=" row">
+                            <div class="col-md-6  ">
+                                <p><a class="but" href="/Home/EncryptedOnly">Зашифрувати</a></p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><a class="but" href="/Home/DecryptedOnly">Розшифрувати</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-md-pull-3">
+                        <h3>Шифрування у зображення з криптозахистом</h3>
+                        <div class=" row">
+                            <div class="col-md-6  ">
+                                <p><a class="but" href="/Home/Encrypted">Зашифрувати</a></p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><a class="but" href="/Home/Decrypted">Розшифрувати</a></p>
+                            </div>
+                        </div>
+                    </div>
+           </div>
+    <br />
+       <div class="row">
+               <div class="col-md-4 col-md-push-4">
+                   <h3>Шифрування за криптоалгоритмом</h3>
+                   <div class=" row">
+                       <div class="col-md-6  ">
+                           <p><a class="but" href="/Home/CryptoEncrypted">Зашифрувати</a></p>
+                       </div>
+                       <div class="col-md-6">
+                           <p><a class="but" href="/Home/CryptoDecrypted">Розшифрувати</a></p>
+                       </div>
+                   </div>
+               </div>
+       </div>
+    </div>
+<footer>
+    <div class="row>">
+        <div class="col-md-12" id="second">
+            <p>&copy; @DateTime.Now.Year - Zelinsky.Morozov.Negrei Production</p>
+        </div>
+    </div>
+</footer>
+

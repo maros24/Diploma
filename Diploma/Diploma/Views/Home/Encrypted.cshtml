@@ -1,0 +1,115 @@
+﻿@Scripts.Render("~/bundles/bootstrap")
+@{
+    ViewBag.Title = "Encrypted";
+}
+
+    <div class="jumbotron" id="enc">
+        <div class="encrypt-header">
+            <h3>Оберіть файли для завантаження</h3>
+        </div>
+        <form id="myForm" action="/Home/Encrypted" enctype="multipart/form-data" method="post">
+            <div class="form-horizontal">
+                <script type="text/javascript">
+                    var arr1 = [".txt"];
+                    var arr2 = [".jpg", ".jpeg", ".bmp", ".png"];
+                </script>
+               
+                <span class="tom" id="err">  </span><br />
+               
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="file-upload" id="file-upload" title="Завантажте текстовий файл з розширенням '.txt' ">
+                            <script>
+                                 $('#file-upload').tooltip();
+                            </script>
+                            <label >
+                                <input type="file" name="upload1" id="upload1" onchange="ValidateSingleInput(this, arr1); getFileName ('upload1','file-name1');" required />
+                                <span>Оберіть текст</span>
+                            </label>
+
+                        </div>
+                       
+                  
+                        <div class="file-name1" id="file-name1"></div>
+                    </div>
+                    <div class="col-md-5 col-md-push-2">
+                        <div class="file-upload" , id="file-upload2" title="Завантажте зображення з розширеннями '.png', '.jpg', '.bmp', '.jpeg'">
+                            <script>
+                                 $('#file-upload2').tooltip();
+                            </script>
+                            <label>
+                                <input type="file" name="upload2" id="upload2" onchange="ValidateSingleInput(this, arr2); getFileName ('upload2','file-name2');" required />
+                                <span>Оберіть зображення</span>
+                            </label>
+                        </div>
+                        <div class="file-name2" , id="file-name2"></div>
+                    </div>
+                    </div>
+                <br/>
+
+                <script type="text/javascript">
+                    function ValidateSingleInput(oInput, _validFileExtensions) {
+                        if (oInput.type == "file") {
+                            var sFileName = oInput.value;
+                            if (sFileName.length > 0) {
+                                var blnValid = false;
+                                for (var j = 0; j < _validFileExtensions.length; j++) {
+                                    var sCurExtension = _validFileExtensions[j];
+                                    if (sFileName.substr(sFileName.length - sCurExtension.length, sCurExtension.length).toLowerCase() == sCurExtension.toLowerCase()) {
+                                        blnValid = true;
+                                        break;
+                                    }
+                                }
+                                if (!blnValid) {
+                                    err.classList.add("text-danger");
+                                    err.innerHTML = "Невірне розширення файлу!";
+                                    oInput.value = "";
+                                    return false;
+
+                                }
+                                err.classList.remove("text-danger");
+                                err.innerHTML = "";
+                            }
+
+                        }
+                        return true;
+                    }
+                </script>
+
+                <script type="text/javascript">
+
+                    function getFileName(upload, filename) {
+
+                        var file = document.getElementById(upload).value;
+
+                        file = file.replace(/\\/g, '/').split('/').pop();
+
+                        document.getElementById(filename).innerHTML = 'Назва файлу: ' + file;
+                    }
+                </script>
+    
+
+                <div class="password">
+                    <div class="input-wrapper">
+                        <input type="password" name="key" id="key" placeholder="Введіть ключ шифрування" required />
+                        <label for="key" id="lol">key</label>
+                    </div>
+                </div>
+                <br />
+                <label id="drop">Оберіть алгоритм шифрування</label> 
+                <select class="turnintodropdown" name="algoritm" id="algoritm" required>
+                    <option value="AES">AES</option>
+                    <option value="AES">AES</option>
+                    <option value="Rijndael">Rijndael</option>
+                    <option value="TripleDES">TripleDES</option>
+                </select>
+               
+                <br />
+                <p>
+                        <input type="submit" value="Зашифрувати" style="margin:auto" class="button13" />     
+                </p>
+            </div>
+            
+        </form>
+    </div>
+    
